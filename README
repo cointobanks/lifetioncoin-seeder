@@ -1,7 +1,7 @@
-dash-seeder
+lifetioncoin-seeder
 ==============
 
-dash-seeder is a crawler for the Dash network, which exposes a list
+lifetioncoin-seeder is a crawler for the Lifetioncoin network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
